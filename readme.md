@@ -16,8 +16,8 @@ $ sudo tar -xzf ideaIC-2020.3.tar.gz -C ~/Software
 
 https://docs.scala-lang.org/getting-started/intellij-track/getting-started-with-scala-in-intellij.html
 
-4.1  Otra opción es cargar el projecto obtenido de github, selecciona 
-    el archivo build.sbt y asegurate de seleccionar la opción "auto-import".
+4.1 Otra opción es cargar el projecto obtenido de github, selecciona 
+    el archivo build.sbt y asegúrate de seleccionar la opción "auto-import".
     Enseguida todas las dependencias se actualizaran automáticamente.
 	
 5) Ejecuta el programa:
