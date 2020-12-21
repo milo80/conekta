@@ -21,7 +21,7 @@ https://docs.scala-lang.org/getting-started/intellij-track/getting-started-with-
     Enseguida todas las dependencias se actualizaran automáticamente.
 	
 5) Ejecuta el programa:
-    - Dentro de el proyecto "conekta_test" (en el panel de proyecto), navega al archivo:
+    - Dentro del proyecto "conekta_test" (en el panel de proyecto), navega al archivo:
       src/main/scala/calcula_numero/Main.scala
 
     - Da click derecho sobre Main.scala y da nuevamente clic sobre "run 'Main'"
